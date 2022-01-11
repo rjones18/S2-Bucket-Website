@@ -1,4 +1,4 @@
-# S3-Bucket-Website
+# S3-Bucket-Static-Website
 In this project I created a static website in my S3 bucket and deployed the website using CloudFront.
 
 Link to Website: https://d39xrb0zml9uv2.cloudfront.net/
