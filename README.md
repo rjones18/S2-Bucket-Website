@@ -6,7 +6,9 @@ Link to Website: https://bucket.reggiestestdomain.com/
 
 ## Website Breakdown
 
-The construction of the website broken down into the parts below:
+The website is broken down into the architecture below:
+
+![ebsapp](https://github.com/rjones18/Images/blob/main/staticsite.png)
 
 ### Language 
 
