@@ -19,3 +19,13 @@ The website is broken down into the architecture below:
 ### Deployment Platform
 
 - [CloudFront](https://aws.amazon.com/cloudfront/)
+
+
+### DNS
+
+- [Route 53](https://aws.amazon.com/route53/)
+
+
+### SSL Certificate
+
+- [Certificate Manager](https://aws.amazon.com/certificate-manager/)
