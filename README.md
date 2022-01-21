@@ -8,7 +8,7 @@ Link to Website: https://aws-staticsite.reggiestestdomain.com/
 
 The website is broken down into the architecture below:
 
-![ebsapp](https://github.com/rjones18/Images/blob/main/)
+![ebsapp](https://github.com/rjones18/Images/blob/main/staticsite.png)
 
 ### Language 
 
